@@ -26,5 +26,19 @@
     "h": 120,
     "aspect": "fixed",
     "title": "Seperator"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(pZNNbsMgEIVPwzbCoCTdRrS9B8HjGgUzFjh/ty82TtTYAbmJxGbeg++JGSBc+Fq2QBi1sgHCPwljCpvWgffoQhGcOsoFpbE+T2rpW1BdFE/Sabk3EB3fOTzAWZfdyNC2Bqe73uVfhO7Cnn5xodDaANFo/YPzxw8wqW04Sy8RNsZfx2q1jjVh34sRxfsIumLrCYVuXsFsp5iP4jmGi6CkGsbFXqrDj8OjLZ+Gt7Ifxsy42Q2eINni3LVuAKNtEnB/Mv9B3A+NkG12SMsYbBFDGfSQmWPQZ90c1MQIuKjQQWY2lTYm/plManLDED1LGNT4yQfhFw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 119.99999999999999,
+    "h": 119.99999999999999,
+    "aspect": "fixed",
+    "title": "Compressor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(pZNREoIgEIZPw2uDMB2goboHKSYjggOkdfsQ1CkNS5vhZf9lv3/ZHQAmpqA1AwhKWjGAjwChhorGKciJRVASCEPcTmJqapbaoUxzehF9pbFalazlme0ZXBZMc9tl8QnAg7vTHUxSJaWDcCXNW+Yl72CUS1cL7wHW2z/6aLcPMUDnnxHJ/4ix6BsEE6fE3onJhablVaubzD5a17Sb4SwxpCvVbSsymaVHDQDBZRQwbnoNYiza3sUUsamPFV34Dc0G7dXIdjDJlWYLa8u5EOEXLLhGL3jrmYNXw4/1whM=);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 119.99999999999999,
+    "h": 119.99999999999999,
+    "aspect": "fixed",
+    "title": "Valve"
   }
 ]</mxlibrary>
