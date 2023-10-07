@@ -1,0 +1,30 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(zZXRboMwDEW/Jo9MQMbeJ7b9h0sNRA0JMllhf79AQCuUoG4CaRIS8jU5uSa2wnjalFAji0MFFTL+xuK4Eh2SfVuxdEoUhi5uFzE0NWbGiVcgASeJLtMY0hdsxdmMDKFKJGH6LH9n4av9pn94mmmlLERo1cwyN3kLA6Hs2rBzsHH7r1lUW36Fxnp3Jp3K4o/HsU/JMeDoIL9z7OR+d7/7geeOo6MObjdw9HcsT63ia26eniC7FKQ/1XnVDPVztd3vy2FcDuuqIc+2PM014YafXEjpZnrjD9bQT/tdYkpX+oo/NSWrRa2jJ4IUyk94SR5BAGV+wrMLaTr9kUhT3oUSqMDAgoJcQjFrgqZFrG/kkd8F0IkmIG2g74VfVLxpN/k3dofe8hy/vWN8jTMsu+u8QXX30iB8Aw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Mixer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(nZTtboMgFIavhr8LQpr9Xux2H1TPKikCQ6zt3Q89YsTqZpuYmPO+8nC+IuF5UwkLhFEtaiD8SBizbW3DK2gVChmlGHeLWDQWCo/iVTgpTgrQabwzF+hk6UeG1BU46XuXfxL6Eb7pH54XRusAkUY3iTPzA0xIHc7SG8Lo2wGvuceYv4+KDbfU4MGNDqqEfb0OfwbM86BslcTzkyguZ2daXa6m8y2Vws79kbMVfU8fjGjX5gqzYpJSpsGtsyNCST1DTIeeg/y0ouwh2ZKyFG4MhTjB+xgfdl2TlsvS0e1DLDKdGFkKiXnSNM1/2jEsxMbIdg4clJK2mU+Era9olzaySsPVVd1YyJCZcfDqpg7kB8Cg4t9mEH4B);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Pump"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(rVXbjoIwEP2avpperD4bdvc3NhWqNGKLBZX9ewsDWakU0JDwMnPoOXPamRaxqEhFLhHFWpwlYl+I0lSK8ldWcSr0UVqXcGgKEMcQ3iEkuI1Fkcu4hORNWCX2mQSkKK05ybtKypZC6VRaVdYo+0Z45/6pPxbFRmtHoowuesgT7siE0m4troAMrzYcdP7aBESI/nzOQT7g6Bex4u9TkHkULHKZ0FaxaC/i09Gaq04GhW19SqGqh4/WO/nBegKqLDoYK0fKOagsgwYZ2axc1K3zAnTw2dzkv6V32qFjyJQOM5BZFJerSGoK4nGQPklFId52eBuT0X4JiGx9Ed4X4Z7IvM3wRLgnQiec0CWc0AknbAknbMIJW8IJm3CyXsLJ2nOy8UVmORmdgtD0P90BgTF1D0xowJtlLzdEk4VHqUk8AA==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Heat Exchanger"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vZbdboMgFICfxsst/Mx1u1zs9h7U0kmqYNC2+vZDjyRTJ6VilvSinCMf35EDMaJJlbGSRwRJVvCI7iNCKl5yzWqlzX+TyCCKSQzjG4xjBENWlTytIXZlWrBDziFT1Vqd+U0c6wEhZMa1qLss/YzQh3mm+9EkVVIaiFCyGmV+5Q2MCWnmogZg6HnwaQc/GBl1UfCa6+EpiEbkazUYbQYeY+0yjyBwOGJqgcMtViCmFu/hFgsImpjIUoPR5MDS87dWF3n8c+GSdc07S9h0oa58qShM3NtjGbmQywxfSHrRYILHGDzjNARC9ji3wxi/DHMaOj7gLX3QZVxQvO6tTAuKpxXdLegJx+OCpvXcMekbZ7b/fXShaWhyUpo7uukk8hxuRceq/95yK3fIJULCNfwQLgm62+Bt+EJcIhYZoOGHcEm8btEbvhCXyC5cww/hknjbojd8Ic4ji8Kbw5Ph1Njm6lh3p9rc4tXYT5vdrX0UPl/7wA8=);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Seperator"
+  }
+]</mxlibrary>

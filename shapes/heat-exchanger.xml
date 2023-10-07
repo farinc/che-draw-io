@@ -1,0 +1,27 @@
+<shape name="heat_exchanger" h="50" w="100" aspect="variable" strokewidth="inherit">
+  <connections>
+    <constraint x="0.65" y="0"/>
+    <constraint x="0.65" y="1"/>
+    <constraint x="0" y="0.5"/>
+    <constraint x="1" y="0.5"/>
+  </connections>
+  <background>
+    <rect x="0" y="0" w="100" h="50"/>
+  </background>
+  <foreground>
+    <fillstroke />
+        <path>
+            <move x="65" y="0"/>
+            <line x="65" y="10"/>
+            <quad x1="65" y1="10" x2="75" y2="15"/>
+            <quad x1="75" y1="15" x2="55" y2="20"/>
+            <quad x1="55" y1="20" x2="75" y2="25"/>
+            <quad x1="75" y1="25" x2="55" y2="30"/>
+            <quad x1="55" y1="30" x2="75" y2="35"/>
+            <quad x1="75" y1="35" x2="55" y2="40"/>
+            <quad x1="55" y1="40" x2="65" y2="45"/>
+            <line x="65" y="50"/>
+        </path>
+    <stroke />
+  </foreground>
+</shape>
