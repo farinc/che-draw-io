@@ -25,7 +25,7 @@
     "w": 40,
     "h": 120,
     "aspect": "fixed",
-    "title": "Seperator"
+    "title": "Phase Seperator"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(pZNNbsMgEIVPwzbCoCTdRrS9B8HjGgUzFjh/ty82TtTYAbmJxGbeg++JGSBc+Fq2QBi1sgHCPwljCpvWgffoQhGcOsoFpbE+T2rpW1BdFE/Sabk3EB3fOTzAWZfdyNC2Bqe73uVfhO7Cnn5xodDaANFo/YPzxw8wqW04Sy8RNsZfx2q1jjVh34sRxfsIumLrCYVuXsFsp5iP4jmGi6CkGsbFXqrDj8OjLZ+Gt7Ifxsy42Q2eINni3LVuAKNtEnB/Mv9B3A+NkG12SMsYbBFDGfSQmWPQZ90c1MQIuKjQQWY2lTYm/plManLDED1LGNT4yQfhFw==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
@@ -40,5 +40,12 @@
     "h": 119.99999999999999,
     "aspect": "fixed",
     "title": "Valve"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vZXRTsMwDEW/Jo9MaULFMyrwH27nUWtdUjkZg7+f2/SBFVoQW5D64mv3+MpSb5WtQgs9KqMdHFDZJ2VMDcyEfBewR4boWTQZaFO30DrVp1kNoccmJvENmKDuMHVCZL/HE23jxCDXIlMcuvZZ6UeZGR5bNd45gZB34aLzqS8wICfv6vcEm9Z/XFTinA4YkSeTSVXm5ffYTZkHXPwLdmPKXOSHm5F1Ns9zcj7P2c6cyXGR6wO5Gbj4O9ZWoiyFiK1qaPav7I9u+62ZHXVdyqoVxzyE3Hr4zJNxnpxL6Kv335c/GFi52sJtxJVnvPZoiwPj6i8bRjX9mEbhDA==);whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Barrier Seperator"
   }
 ]</mxlibrary>

@@ -1,0 +1,27 @@
+<shape name="barrier-seperator" h="100" w="100" aspect="variable" strokewidth="inherit">
+  <connections>
+    <constraint x="0" y="0" perimeter="1" />
+    <constraint x="0.5" y="0" perimeter="1" />
+    <constraint x="1" y="0" perimeter="1" />
+    <constraint x="1" y="0.25" perimeter="1" />
+    <constraint x="1" y="0.75" perimeter="1" />
+    <constraint x="0" y="0.25" perimeter="1" />
+    <constraint x="0" y="0.75" perimeter="1" />
+    <constraint x="0" y="0.5" perimeter="1" />
+    <constraint x="1" y="0.5" perimeter="1" />
+    <constraint x="0" y="1" perimeter="1" />
+    <constraint x="0.5" y="1" perimeter="1" />
+    <constraint x="1" y="1" perimeter="1" />
+  </connections>
+  <background>
+    <fillstroke />
+    <rect x="0" y="0" w="100" h="100" />
+    <fillstroke />
+    <rect x="0" y="45" w="100" h="10" />
+  </background>
+  <foreground>
+    <fillstroke />
+
+    <stroke />
+  </foreground>
+</shape>
